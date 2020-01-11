@@ -1,0 +1,3 @@
+﻿  Crack010Editor.cpp
+C:\Users\Canary\source\repos\Crack010Editor\Crack010Editor\Crack010Editor.cpp(58,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Crack010Editor.vcxproj -> C:\Users\Canary\source\repos\Crack010Editor\Debug\Crack010Editor.exe
